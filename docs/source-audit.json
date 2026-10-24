@@ -1,0 +1,102 @@
+{
+  "method": "GitHub connector: README inspection and license-file inspection; no source code, corpora, media, courses, or third-party prose redistributed. Blob SHAs identify inspected files, not whole-repository commits.",
+  "sources": [
+    {
+      "repository": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "checked_date": "2026-10-24",
+      "readme": {
+        "path": "README.md",
+        "blob_sha": "ff74468fc7b7c913bc73ea0737c15613ad9e573b",
+        "url": "https://github.com/byoungd/up/blob/main/README.md"
+      },
+      "license_check": {
+        "path": "LICENSE.md",
+        "blob_sha": "dea9d68b06ec9c355afbeb414382185e558c4c3c",
+        "url": "https://github.com/byoungd/up/blob/main/LICENSE.md",
+        "scope": "See resources.md; no blanket rights assertion for data, books or media."
+      }
+    },
+    {
+      "repository": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "checked_date": "2026-10-24",
+      "readme": {
+        "path": "README.md",
+        "blob_sha": "83e4958af211da8937adc7a787dd1ba05473933c",
+        "url": "https://github.com/ZuodaoTech/everyone-can-use-english/blob/main/README.md"
+      },
+      "license_check": {
+        "path": "LICENSE",
+        "blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "url": "https://github.com/ZuodaoTech/everyone-can-use-english/blob/main/LICENSE",
+        "scope": "See resources.md; no blanket rights assertion for data, books or media."
+      }
+    },
+    {
+      "repository": "RealKai42/qwerty-learner",
+      "url": "https://github.com/RealKai42/qwerty-learner",
+      "checked_date": "2026-10-24",
+      "readme": {
+        "path": "README.md",
+        "blob_sha": "04fa6aa33d33134428138b75756d003b43444c9d",
+        "url": "https://github.com/RealKai42/qwerty-learner/blob/master/README.md"
+      },
+      "license_check": {
+        "path": "LICENSE",
+        "blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "url": "https://github.com/RealKai42/qwerty-learner/blob/master/LICENSE",
+        "scope": "See resources.md; no blanket rights assertion for data, books or media."
+      }
+    },
+    {
+      "repository": "cuixueshe/earthworm",
+      "url": "https://github.com/cuixueshe/earthworm",
+      "checked_date": "2026-10-24",
+      "readme": {
+        "path": "README.md",
+        "blob_sha": "48c2e0f804a1b2d86e27f0f84804022607e59901",
+        "url": "https://github.com/cuixueshe/earthworm/blob/main/README.md"
+      },
+      "license_check": {
+        "path": "LICENSE",
+        "blob_sha": "0ad25db4bd1d86c452db3f9602ccdbe172438f52",
+        "url": "https://github.com/cuixueshe/earthworm/blob/main/LICENSE",
+        "scope": "See resources.md; no blanket rights assertion for data, books or media."
+      }
+    },
+    {
+      "repository": "shimohq/chinese-programmer-wrong-pronunciation",
+      "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+      "checked_date": "2026-10-24",
+      "readme": {
+        "path": "README.md",
+        "blob_sha": "0a1c24bedbd6dfb730cebe57b59f9cabc5497c12",
+        "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation/blob/master/README.md"
+      },
+      "license_check": {
+        "status": "not_found_at_checked_paths",
+        "paths": [
+          "LICENSE",
+          "LICENSE.md"
+        ]
+      }
+    },
+    {
+      "repository": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "checked_date": "2026-10-24",
+      "readme": {
+        "path": "README.md",
+        "blob_sha": "29168e81d09162f5c157933ebafe8ee0a3b60608",
+        "url": "https://github.com/ankitects/anki/blob/main/README.md"
+      },
+      "license_check": {
+        "path": "LICENSE",
+        "blob_sha": "6aa37a76547f179fec9893a6f4b6064b2681bacb",
+        "url": "https://github.com/ankitects/anki/blob/main/LICENSE",
+        "scope": "See resources.md; no blanket rights assertion for data, books or media."
+      }
+    }
+  ]
+}

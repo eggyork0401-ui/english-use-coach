@@ -1,0 +1,17 @@
+[
+  {
+    "front": "首次向合作同事询问文档进展，没有硬性期限。写一个礼貌请求句。",
+    "back": "Could you share an update on the document when you have a chance? 适合无明确截止时间的跟进；意思相同的自然表达也可。",
+    "tags": ["english", "follow-up"]
+  },
+  {
+    "front": "会议中想确认：你的意思是我们需要缩小范围吗？用一个问题核实理解。",
+    "back": "Do you mean we need to reduce the scope? 这是确认问题，不表示双方已经作出决定。",
+    "tags": ["english", "meeting"]
+  },
+  {
+    "front": "不知道答案，但确实准备检查并在周四前回复。写一个带下一步的回答。",
+    "back": "I don't know yet. I'll check and get back to you by Thursday. 只有能兑现检查与回复时才加这一承诺。",
+    "tags": ["english", "next-step"]
+  }
+]

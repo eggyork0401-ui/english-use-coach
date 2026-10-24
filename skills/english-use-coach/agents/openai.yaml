@@ -1,0 +1,4 @@
+interface:
+  display_name: "英语实用输出教练"
+  short_description: "用真实邮件、面试和日常对话练习，把看得懂的英语变成能独立使用的表达。"
+  default_prompt: "请使用 $english-use-coach，帮我完成一个英语实际任务，并安排一次不看答案的迁移练习。"
